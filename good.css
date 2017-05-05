@@ -1,0 +1,58 @@
+.mainbox{
+	margin: 160px 30px 43px 30px;
+	border: 10px groove #673AB7;
+	height: 720px;
+	box-shadow: 7px 7px 7px 7px #757575;
+	background-image: url(img101.png);
+	border-radius: 60px 10px 60px 10px;
+
+}
+
+.mainhead{
+	margin-left: : auto;
+	margin-right: auto;
+	border: 2px solid black;
+	height: 160px;
+	border-radius: 51px 1px 51px 51px;
+	box-shadow: 1px 7px 7px 0px #757575; 
+	background-image: url(GM1.jpg);
+	background-repeat: no-repeat;
+	background-size: 1900px;
+	background-position: center;
+
+	
+}
+
+iframe{
+	margin-left: 30%;
+	margin-top: 8%;
+	width: 790px;
+	height: 340px;
+	border: none;	
+}
+
+p{
+	text-decoration: none;
+	text-shadow: 100px;
+	text-transform: capitalize;
+	color: #673AB7;
+	font-weight: 700;
+	font-size: 34px;
+	font-family: monospace;
+}
+
+.mainhead > h1{
+	margin: 25px 25px;
+	text-align: center;
+	font-size: 100px;
+	
+	
+}
+
+button {
+	border-radius: 10px 0px;
+	margin-left: -23%;
+	height: 34px;
+	width: 61px;	
+
+}
